@@ -1,0 +1,11 @@
+press the key (WIN + R) and write cmd and then write these lines:
+
+pip install pygame
+
+pip install transformers
+
+pip install torch
+
+pip install pyttsx3
+
+pip install messagebox
